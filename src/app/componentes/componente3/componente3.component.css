@@ -1,0 +1,16 @@
+.example-card {
+  max-width: 700px;
+}
+
+.example-header-image1 {
+  background-image: url('../../../assets/amazon1.jpg');
+  background-size: cover;
+}
+.example-header-image2 {
+  background-image: url('../../../assets/amazon1.jpg');
+  background-size: cover;
+}
+.example-header-image3 {
+  background-image: url('../../../assets/amazon1.jpg');
+  background-size: cover;
+}
